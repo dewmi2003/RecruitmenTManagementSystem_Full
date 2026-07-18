@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Backend",
+    "\\Backend\\Recruitment.API",
+    "\\Backend\\Recruitment.API\\Controllers",
+    "\\Backend\\Recruitment.Infrastructure",
+    "\\Backend\\Recruitment.Persistence",
+    "\\Cloud",
+    "\\Cloud\\Azure",
+    "\\Database",
+    "\\Database\\Scripts"
+  ],
+  "SelectedNode": "\\Backend\\Recruitment.Domain\\Entities\\Job.cs",
+  "PreviewInSolutionExplorer": false
+}
