@@ -1,0 +1,1 @@
+namespace Recruitment.API.Controllers; public class AuthController {}

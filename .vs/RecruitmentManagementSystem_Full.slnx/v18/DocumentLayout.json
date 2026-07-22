@@ -1,0 +1,1187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CHAMA COMPUTERS\\Desktop\\RecruitmentManagementSystem_Full\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CHAMA COMPUTERS\\docker\\Dockerfile.api||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Domain\\Entities\\RefreshToken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CHAMA COMPUTERS\\scripts\\reorganize-repo.ps1||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CHAMA COMPUTERS\\docs\\REORG.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CHAMA COMPUTERS\\sql\\init_database.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Domain\\Entities\\Role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Domain\\Entities\\Permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Domain\\Enums\\ApplicationStatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Persistence\\Data\\RecruitmentDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Infrastructure\\Recruitment.Infrastructure.csproj||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.API\\Recruitment.API.csproj||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.API\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CHAMA COMPUTERS\\tests\\Recruitment.UnitTests\\Recruitment.UnitTests.csproj||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CHAMA COMPUTERS\\tests\\Recruitment.UnitTests\\UnitTest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Application\\Recruitment.Application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Domain\\Common\\BaseEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Domain\\Common\\IDomainEvent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Domain\\Enums\\InterviewStatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Domain\\Entities\\Candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Domain\\Entities\\Recruiter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Domain\\Entities\\HiringManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Domain\\Entities\\Department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Domain\\Entities\\Organization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Domain\\Entities\\Resume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Domain\\Entities\\Skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Domain\\Entities\\CandidateSkill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Domain\\Entities\\Job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Domain\\Entities\\JobSkill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Domain\\Entities\\Application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Domain\\Entities\\Interview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Domain\\Entities\\InterviewSchedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Domain\\Entities\\Evaluation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Domain\\Entities\\Notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Domain\\Entities\\EmailNotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Domain\\Entities\\AuditLog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Domain\\Entities\\Attachment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Domain\\Entities\\CalendarEvent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Domain\\Entities\\ActivityLog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Persistence\\Data\\DbSeeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CHAMA COMPUTERS\\sql\\init_database.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Infrastructure\\Services\\BlobStorage\\IBlobStorageService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Infrastructure\\Services\\BlobStorage\\LocalBlobStorageService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Infrastructure\\AI\\IOpenAiService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Infrastructure\\AI\\MockOpenAiService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Infrastructure\\Logging\\SerilogLogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Infrastructure\\Identity\\IdentityStore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Application\\Common\\MappingProfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Application\\DTOs\\UserDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Application\\Features\\Auth\\Commands\\RegisterUserCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Application\\Features\\Auth\\Handlers\\RegisterUserHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Application\\Features\\Auth\\Validators\\RegisterUserValidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.API\\Controllers\\AuthController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.API\\Middleware\\ExceptionMiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.API\\Controllers\\HealthController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.API\\Middleware\\AuditMiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.API\\Controllers\\UsersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CHAMA COMPUTERS\\recruitment-client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CHAMA COMPUTERS\\recruitment-client\\vite.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CHAMA COMPUTERS\\recruitment-client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CHAMA COMPUTERS\\recruitment-client\\src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CHAMA COMPUTERS\\recruitment-client\\src\\App.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CHAMA COMPUTERS\\recruitment-client\\src\\pages\\Home.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CHAMA COMPUTERS\\recruitment-client\\src\\pages\\Auth\\Login.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CHAMA COMPUTERS\\recruitment-client\\src\\pages\\Auth\\Register.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CHAMA COMPUTERS\\recruitment-client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CHAMA COMPUTERS\\recruitment-client\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CHAMA COMPUTERS\\azure\\bicep\\main.bicep||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CHAMA COMPUTERS\\azure\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CHAMA COMPUTERS\\.github\\workflows\\ci.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CHAMA COMPUTERS\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CHAMA COMPUTERS\\docs\\ARCHITECTURE.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CHAMA COMPUTERS\\docs\\ERD.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CHAMA COMPUTERS\\docs\\API.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 338,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "reorganize-repo.ps1",
+              "DocumentMoniker": "C:\\Users\\CHAMA COMPUTERS\\scripts\\reorganize-repo.ps1",
+              "RelativeDocumentMoniker": "..\\..\\scripts\\reorganize-repo.ps1",
+              "ToolTip": "C:\\Users\\CHAMA COMPUTERS\\scripts\\reorganize-repo.ps1",
+              "RelativeToolTip": "..\\..\\scripts\\reorganize-repo.ps1",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-07-15T18:31:29.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "REORG.md",
+              "DocumentMoniker": "C:\\Users\\CHAMA COMPUTERS\\docs\\REORG.md",
+              "RelativeDocumentMoniker": "..\\..\\docs\\REORG.md",
+              "ToolTip": "C:\\Users\\CHAMA COMPUTERS\\docs\\REORG.md",
+              "RelativeToolTip": "..\\..\\docs\\REORG.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-07-15T18:31:37.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "API.md",
+              "DocumentMoniker": "C:\\Users\\CHAMA COMPUTERS\\docs\\API.md",
+              "RelativeDocumentMoniker": "..\\..\\docs\\API.md",
+              "ToolTip": "C:\\Users\\CHAMA COMPUTERS\\docs\\API.md",
+              "RelativeToolTip": "..\\..\\docs\\API.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-07-15T18:28:27.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "ERD.md",
+              "DocumentMoniker": "C:\\Users\\CHAMA COMPUTERS\\docs\\ERD.md",
+              "RelativeDocumentMoniker": "..\\..\\docs\\ERD.md",
+              "ToolTip": "C:\\Users\\CHAMA COMPUTERS\\docs\\ERD.md",
+              "RelativeToolTip": "..\\..\\docs\\ERD.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-07-15T18:28:22.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "ARCHITECTURE.md",
+              "DocumentMoniker": "C:\\Users\\CHAMA COMPUTERS\\docs\\ARCHITECTURE.md",
+              "RelativeDocumentMoniker": "..\\..\\docs\\ARCHITECTURE.md",
+              "ToolTip": "C:\\Users\\CHAMA COMPUTERS\\docs\\ARCHITECTURE.md",
+              "RelativeToolTip": "..\\..\\docs\\ARCHITECTURE.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-07-15T18:28:14.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\CHAMA COMPUTERS\\README.md",
+              "RelativeDocumentMoniker": "..\\..\\README.md",
+              "ToolTip": "C:\\Users\\CHAMA COMPUTERS\\README.md",
+              "RelativeToolTip": "..\\..\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-07-15T18:28:06.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "readme.md",
+              "DocumentMoniker": "C:\\Users\\CHAMA COMPUTERS\\azure\\readme.md",
+              "RelativeDocumentMoniker": "..\\..\\azure\\readme.md",
+              "ToolTip": "C:\\Users\\CHAMA COMPUTERS\\azure\\readme.md",
+              "RelativeToolTip": "..\\..\\azure\\readme.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-07-15T18:27:02.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "main.bicep",
+              "DocumentMoniker": "C:\\Users\\CHAMA COMPUTERS\\azure\\bicep\\main.bicep",
+              "RelativeDocumentMoniker": "..\\..\\azure\\bicep\\main.bicep",
+              "ToolTip": "C:\\Users\\CHAMA COMPUTERS\\azure\\bicep\\main.bicep",
+              "RelativeToolTip": "..\\..\\azure\\bicep\\main.bicep",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-07-15T18:26:57.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\CHAMA COMPUTERS\\recruitment-client\\README.md",
+              "RelativeDocumentMoniker": "..\\..\\recruitment-client\\README.md",
+              "ToolTip": "C:\\Users\\CHAMA COMPUTERS\\recruitment-client\\README.md",
+              "RelativeToolTip": "..\\..\\recruitment-client\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-07-15T18:26:41.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\Users\\CHAMA COMPUTERS\\recruitment-client\\src\\index.css",
+              "RelativeDocumentMoniker": "..\\..\\recruitment-client\\src\\index.css",
+              "ToolTip": "C:\\Users\\CHAMA COMPUTERS\\recruitment-client\\src\\index.css",
+              "RelativeToolTip": "..\\..\\recruitment-client\\src\\index.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-07-15T18:26:35.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Register.tsx",
+              "DocumentMoniker": "C:\\Users\\CHAMA COMPUTERS\\recruitment-client\\src\\pages\\Auth\\Register.tsx",
+              "RelativeDocumentMoniker": "..\\..\\recruitment-client\\src\\pages\\Auth\\Register.tsx",
+              "ToolTip": "C:\\Users\\CHAMA COMPUTERS\\recruitment-client\\src\\pages\\Auth\\Register.tsx",
+              "RelativeToolTip": "..\\..\\recruitment-client\\src\\pages\\Auth\\Register.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-07-15T18:26:31.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ActivityLog.cs",
+              "DocumentMoniker": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Domain\\Entities\\ActivityLog.cs",
+              "RelativeDocumentMoniker": "..\\..\\src\\Recruitment.Domain\\Entities\\ActivityLog.cs",
+              "ToolTip": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Domain\\Entities\\ActivityLog.cs",
+              "RelativeToolTip": "..\\..\\src\\Recruitment.Domain\\Entities\\ActivityLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T18:18:04.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CalendarEvent.cs",
+              "DocumentMoniker": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Domain\\Entities\\CalendarEvent.cs",
+              "RelativeDocumentMoniker": "..\\..\\src\\Recruitment.Domain\\Entities\\CalendarEvent.cs",
+              "ToolTip": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Domain\\Entities\\CalendarEvent.cs",
+              "RelativeToolTip": "..\\..\\src\\Recruitment.Domain\\Entities\\CalendarEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T18:17:54.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Attachment.cs",
+              "DocumentMoniker": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Domain\\Entities\\Attachment.cs",
+              "RelativeDocumentMoniker": "..\\..\\src\\Recruitment.Domain\\Entities\\Attachment.cs",
+              "ToolTip": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Domain\\Entities\\Attachment.cs",
+              "RelativeToolTip": "..\\..\\src\\Recruitment.Domain\\Entities\\Attachment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T18:17:48.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AuditLog.cs",
+              "DocumentMoniker": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Domain\\Entities\\AuditLog.cs",
+              "RelativeDocumentMoniker": "..\\..\\src\\Recruitment.Domain\\Entities\\AuditLog.cs",
+              "ToolTip": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Domain\\Entities\\AuditLog.cs",
+              "RelativeToolTip": "..\\..\\src\\Recruitment.Domain\\Entities\\AuditLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T18:17:43.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "EmailNotification.cs",
+              "DocumentMoniker": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Domain\\Entities\\EmailNotification.cs",
+              "RelativeDocumentMoniker": "..\\..\\src\\Recruitment.Domain\\Entities\\EmailNotification.cs",
+              "ToolTip": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Domain\\Entities\\EmailNotification.cs",
+              "RelativeToolTip": "..\\..\\src\\Recruitment.Domain\\Entities\\EmailNotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T18:17:37.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Domain\\Entities\\Notification.cs",
+              "RelativeDocumentMoniker": "..\\..\\src\\Recruitment.Domain\\Entities\\Notification.cs",
+              "ToolTip": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Domain\\Entities\\Notification.cs",
+              "RelativeToolTip": "..\\..\\src\\Recruitment.Domain\\Entities\\Notification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T18:17:32.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Evaluation.cs",
+              "DocumentMoniker": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Domain\\Entities\\Evaluation.cs",
+              "RelativeDocumentMoniker": "..\\..\\src\\Recruitment.Domain\\Entities\\Evaluation.cs",
+              "ToolTip": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Domain\\Entities\\Evaluation.cs",
+              "RelativeToolTip": "..\\..\\src\\Recruitment.Domain\\Entities\\Evaluation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T18:17:24.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "InterviewSchedule.cs",
+              "DocumentMoniker": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Domain\\Entities\\InterviewSchedule.cs",
+              "RelativeDocumentMoniker": "..\\..\\src\\Recruitment.Domain\\Entities\\InterviewSchedule.cs",
+              "ToolTip": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Domain\\Entities\\InterviewSchedule.cs",
+              "RelativeToolTip": "..\\..\\src\\Recruitment.Domain\\Entities\\InterviewSchedule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T18:17:19.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Interview.cs",
+              "DocumentMoniker": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Domain\\Entities\\Interview.cs",
+              "RelativeDocumentMoniker": "..\\..\\src\\Recruitment.Domain\\Entities\\Interview.cs",
+              "ToolTip": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Domain\\Entities\\Interview.cs",
+              "RelativeToolTip": "..\\..\\src\\Recruitment.Domain\\Entities\\Interview.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T18:17:13.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Application.cs",
+              "DocumentMoniker": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Domain\\Entities\\Application.cs",
+              "RelativeDocumentMoniker": "..\\..\\src\\Recruitment.Domain\\Entities\\Application.cs",
+              "ToolTip": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Domain\\Entities\\Application.cs",
+              "RelativeToolTip": "..\\..\\src\\Recruitment.Domain\\Entities\\Application.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T18:17:05.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "JobSkill.cs",
+              "DocumentMoniker": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Domain\\Entities\\JobSkill.cs",
+              "RelativeDocumentMoniker": "..\\..\\src\\Recruitment.Domain\\Entities\\JobSkill.cs",
+              "ToolTip": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Domain\\Entities\\JobSkill.cs",
+              "RelativeToolTip": "..\\..\\src\\Recruitment.Domain\\Entities\\JobSkill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T18:16:59.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Job.cs",
+              "DocumentMoniker": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Domain\\Entities\\Job.cs",
+              "RelativeDocumentMoniker": "..\\..\\src\\Recruitment.Domain\\Entities\\Job.cs",
+              "ToolTip": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Domain\\Entities\\Job.cs",
+              "RelativeToolTip": "..\\..\\src\\Recruitment.Domain\\Entities\\Job.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T18:16:54.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CandidateSkill.cs",
+              "DocumentMoniker": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Domain\\Entities\\CandidateSkill.cs",
+              "RelativeDocumentMoniker": "..\\..\\src\\Recruitment.Domain\\Entities\\CandidateSkill.cs",
+              "ToolTip": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Domain\\Entities\\CandidateSkill.cs",
+              "RelativeToolTip": "..\\..\\src\\Recruitment.Domain\\Entities\\CandidateSkill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T18:16:48.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Skill.cs",
+              "DocumentMoniker": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Domain\\Entities\\Skill.cs",
+              "RelativeDocumentMoniker": "..\\..\\src\\Recruitment.Domain\\Entities\\Skill.cs",
+              "ToolTip": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Domain\\Entities\\Skill.cs",
+              "RelativeToolTip": "..\\..\\src\\Recruitment.Domain\\Entities\\Skill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T18:16:42.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Resume.cs",
+              "DocumentMoniker": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Domain\\Entities\\Resume.cs",
+              "RelativeDocumentMoniker": "..\\..\\src\\Recruitment.Domain\\Entities\\Resume.cs",
+              "ToolTip": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Domain\\Entities\\Resume.cs",
+              "RelativeToolTip": "..\\..\\src\\Recruitment.Domain\\Entities\\Resume.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T18:16:38.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Organization.cs",
+              "DocumentMoniker": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Domain\\Entities\\Organization.cs",
+              "RelativeDocumentMoniker": "..\\..\\src\\Recruitment.Domain\\Entities\\Organization.cs",
+              "ToolTip": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Domain\\Entities\\Organization.cs",
+              "RelativeToolTip": "..\\..\\src\\Recruitment.Domain\\Entities\\Organization.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T18:16:33.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Recruitment.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Infrastructure\\Recruitment.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "..\\..\\src\\Recruitment.Infrastructure\\Recruitment.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Infrastructure\\Recruitment.Infrastructure.csproj",
+              "RelativeToolTip": "..\\..\\src\\Recruitment.Infrastructure\\Recruitment.Infrastructure.csproj",
+              "ViewState": "AgIAABEAAAAAAAAAAABBwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-15T18:13:52.684Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 628,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "ci.yml",
+              "DocumentMoniker": "C:\\Users\\CHAMA COMPUTERS\\.github\\workflows\\ci.yml",
+              "RelativeDocumentMoniker": "..\\..\\.github\\workflows\\ci.yml",
+              "ToolTip": "C:\\Users\\CHAMA COMPUTERS\\.github\\workflows\\ci.yml",
+              "RelativeToolTip": "..\\..\\.github\\workflows\\ci.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-07-15T18:27:34.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile.api",
+              "DocumentMoniker": "C:\\Users\\CHAMA COMPUTERS\\docker\\Dockerfile.api",
+              "RelativeDocumentMoniker": "..\\..\\docker\\Dockerfile.api",
+              "ToolTip": "C:\\Users\\CHAMA COMPUTERS\\docker\\Dockerfile.api",
+              "RelativeToolTip": "..\\..\\docker\\Dockerfile.api",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-07-15T18:27:13.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Login.tsx",
+              "DocumentMoniker": "C:\\Users\\CHAMA COMPUTERS\\recruitment-client\\src\\pages\\Auth\\Login.tsx",
+              "RelativeDocumentMoniker": "..\\..\\recruitment-client\\src\\pages\\Auth\\Login.tsx",
+              "ToolTip": "C:\\Users\\CHAMA COMPUTERS\\recruitment-client\\src\\pages\\Auth\\Login.tsx",
+              "RelativeToolTip": "..\\..\\recruitment-client\\src\\pages\\Auth\\Login.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-07-15T18:26:20.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Home.tsx",
+              "DocumentMoniker": "C:\\Users\\CHAMA COMPUTERS\\recruitment-client\\src\\pages\\Home.tsx",
+              "RelativeDocumentMoniker": "..\\..\\recruitment-client\\src\\pages\\Home.tsx",
+              "ToolTip": "C:\\Users\\CHAMA COMPUTERS\\recruitment-client\\src\\pages\\Home.tsx",
+              "RelativeToolTip": "..\\..\\recruitment-client\\src\\pages\\Home.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-07-15T18:26:12.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RefreshToken.cs",
+              "DocumentMoniker": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Domain\\Entities\\RefreshToken.cs",
+              "RelativeDocumentMoniker": "..\\..\\src\\Recruitment.Domain\\Entities\\RefreshToken.cs",
+              "ToolTip": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Domain\\Entities\\RefreshToken.cs",
+              "RelativeToolTip": "..\\..\\src\\Recruitment.Domain\\Entities\\RefreshToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T18:16:04.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HiringManager.cs",
+              "DocumentMoniker": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Domain\\Entities\\HiringManager.cs",
+              "RelativeDocumentMoniker": "..\\..\\src\\Recruitment.Domain\\Entities\\HiringManager.cs",
+              "ToolTip": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Domain\\Entities\\HiringManager.cs",
+              "RelativeToolTip": "..\\..\\src\\Recruitment.Domain\\Entities\\HiringManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T18:16:17.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "App.tsx",
+              "DocumentMoniker": "C:\\Users\\CHAMA COMPUTERS\\recruitment-client\\src\\App.tsx",
+              "RelativeDocumentMoniker": "..\\..\\recruitment-client\\src\\App.tsx",
+              "ToolTip": "C:\\Users\\CHAMA COMPUTERS\\recruitment-client\\src\\App.tsx",
+              "RelativeToolTip": "..\\..\\recruitment-client\\src\\App.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-07-15T18:26:02.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "main.tsx",
+              "DocumentMoniker": "C:\\Users\\CHAMA COMPUTERS\\recruitment-client\\src\\main.tsx",
+              "RelativeDocumentMoniker": "..\\..\\recruitment-client\\src\\main.tsx",
+              "ToolTip": "C:\\Users\\CHAMA COMPUTERS\\recruitment-client\\src\\main.tsx",
+              "RelativeToolTip": "..\\..\\recruitment-client\\src\\main.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-07-15T18:25:50.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\CHAMA COMPUTERS\\recruitment-client\\index.html",
+              "RelativeDocumentMoniker": "..\\..\\recruitment-client\\index.html",
+              "ToolTip": "C:\\Users\\CHAMA COMPUTERS\\recruitment-client\\index.html",
+              "RelativeToolTip": "..\\..\\recruitment-client\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-07-15T18:25:05.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "vite.config.ts",
+              "DocumentMoniker": "C:\\Users\\CHAMA COMPUTERS\\recruitment-client\\vite.config.ts",
+              "RelativeDocumentMoniker": "..\\..\\recruitment-client\\vite.config.ts",
+              "ToolTip": "C:\\Users\\CHAMA COMPUTERS\\recruitment-client\\vite.config.ts",
+              "RelativeToolTip": "..\\..\\recruitment-client\\vite.config.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-07-15T18:24:46.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\CHAMA COMPUTERS\\recruitment-client\\package.json",
+              "RelativeDocumentMoniker": "..\\..\\recruitment-client\\package.json",
+              "ToolTip": "C:\\Users\\CHAMA COMPUTERS\\recruitment-client\\package.json",
+              "RelativeToolTip": "..\\..\\recruitment-client\\package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-15T18:24:30.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "..\\..\\src\\Recruitment.API\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "..\\..\\src\\Recruitment.API\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T18:24:10.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "AuditMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.API\\Middleware\\AuditMiddleware.cs",
+              "RelativeDocumentMoniker": "..\\..\\src\\Recruitment.API\\Middleware\\AuditMiddleware.cs",
+              "ToolTip": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.API\\Middleware\\AuditMiddleware.cs",
+              "RelativeToolTip": "..\\..\\src\\Recruitment.API\\Middleware\\AuditMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T18:23:37.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "HealthController.cs",
+              "DocumentMoniker": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.API\\Controllers\\HealthController.cs",
+              "RelativeDocumentMoniker": "..\\..\\src\\Recruitment.API\\Controllers\\HealthController.cs",
+              "ToolTip": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.API\\Controllers\\HealthController.cs",
+              "RelativeToolTip": "..\\..\\src\\Recruitment.API\\Controllers\\HealthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T18:23:30.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.API\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "..\\..\\src\\Recruitment.API\\Middleware\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.API\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "..\\..\\src\\Recruitment.API\\Middleware\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T18:23:12.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "..\\..\\src\\Recruitment.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "..\\..\\src\\Recruitment.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T18:23:05.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "RegisterUserValidator.cs",
+              "DocumentMoniker": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Application\\Features\\Auth\\Validators\\RegisterUserValidator.cs",
+              "RelativeDocumentMoniker": "..\\..\\src\\Recruitment.Application\\Features\\Auth\\Validators\\RegisterUserValidator.cs",
+              "ToolTip": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Application\\Features\\Auth\\Validators\\RegisterUserValidator.cs",
+              "RelativeToolTip": "..\\..\\src\\Recruitment.Application\\Features\\Auth\\Validators\\RegisterUserValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T18:22:36.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "RegisterUserHandler.cs",
+              "DocumentMoniker": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Application\\Features\\Auth\\Handlers\\RegisterUserHandler.cs",
+              "RelativeDocumentMoniker": "..\\..\\src\\Recruitment.Application\\Features\\Auth\\Handlers\\RegisterUserHandler.cs",
+              "ToolTip": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Application\\Features\\Auth\\Handlers\\RegisterUserHandler.cs",
+              "RelativeToolTip": "..\\..\\src\\Recruitment.Application\\Features\\Auth\\Handlers\\RegisterUserHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T18:22:32.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "RegisterUserCommand.cs",
+              "DocumentMoniker": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Application\\Features\\Auth\\Commands\\RegisterUserCommand.cs",
+              "RelativeDocumentMoniker": "..\\..\\src\\Recruitment.Application\\Features\\Auth\\Commands\\RegisterUserCommand.cs",
+              "ToolTip": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Application\\Features\\Auth\\Commands\\RegisterUserCommand.cs",
+              "RelativeToolTip": "..\\..\\src\\Recruitment.Application\\Features\\Auth\\Commands\\RegisterUserCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T18:22:23.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Application\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\src\\Recruitment.Application\\DTOs\\UserDto.cs",
+              "ToolTip": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Application\\DTOs\\UserDto.cs",
+              "RelativeToolTip": "..\\..\\src\\Recruitment.Application\\DTOs\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T18:22:17.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Application\\Common\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "..\\..\\src\\Recruitment.Application\\Common\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Application\\Common\\MappingProfile.cs",
+              "RelativeToolTip": "..\\..\\src\\Recruitment.Application\\Common\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T18:22:12.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "IdentityStore.cs",
+              "DocumentMoniker": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Infrastructure\\Identity\\IdentityStore.cs",
+              "RelativeDocumentMoniker": "..\\..\\src\\Recruitment.Infrastructure\\Identity\\IdentityStore.cs",
+              "ToolTip": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Infrastructure\\Identity\\IdentityStore.cs",
+              "RelativeToolTip": "..\\..\\src\\Recruitment.Infrastructure\\Identity\\IdentityStore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T18:21:33.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "SerilogLogger.cs",
+              "DocumentMoniker": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Infrastructure\\Logging\\SerilogLogger.cs",
+              "RelativeDocumentMoniker": "..\\..\\src\\Recruitment.Infrastructure\\Logging\\SerilogLogger.cs",
+              "ToolTip": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Infrastructure\\Logging\\SerilogLogger.cs",
+              "RelativeToolTip": "..\\..\\src\\Recruitment.Infrastructure\\Logging\\SerilogLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T18:21:11.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "MockOpenAiService.cs",
+              "DocumentMoniker": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Infrastructure\\AI\\MockOpenAiService.cs",
+              "RelativeDocumentMoniker": "..\\..\\src\\Recruitment.Infrastructure\\AI\\MockOpenAiService.cs",
+              "ToolTip": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Infrastructure\\AI\\MockOpenAiService.cs",
+              "RelativeToolTip": "..\\..\\src\\Recruitment.Infrastructure\\AI\\MockOpenAiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T18:21:07.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "IOpenAiService.cs",
+              "DocumentMoniker": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Infrastructure\\AI\\IOpenAiService.cs",
+              "RelativeDocumentMoniker": "..\\..\\src\\Recruitment.Infrastructure\\AI\\IOpenAiService.cs",
+              "ToolTip": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Infrastructure\\AI\\IOpenAiService.cs",
+              "RelativeToolTip": "..\\..\\src\\Recruitment.Infrastructure\\AI\\IOpenAiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T18:21:01.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "LocalBlobStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Infrastructure\\Services\\BlobStorage\\LocalBlobStorageService.cs",
+              "RelativeDocumentMoniker": "..\\..\\src\\Recruitment.Infrastructure\\Services\\BlobStorage\\LocalBlobStorageService.cs",
+              "ToolTip": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Infrastructure\\Services\\BlobStorage\\LocalBlobStorageService.cs",
+              "RelativeToolTip": "..\\..\\src\\Recruitment.Infrastructure\\Services\\BlobStorage\\LocalBlobStorageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T18:20:54.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IBlobStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Infrastructure\\Services\\BlobStorage\\IBlobStorageService.cs",
+              "RelativeDocumentMoniker": "..\\..\\src\\Recruitment.Infrastructure\\Services\\BlobStorage\\IBlobStorageService.cs",
+              "ToolTip": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Infrastructure\\Services\\BlobStorage\\IBlobStorageService.cs",
+              "RelativeToolTip": "..\\..\\src\\Recruitment.Infrastructure\\Services\\BlobStorage\\IBlobStorageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T18:20:46.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "init_database.sql ",
+              "DocumentMoniker": "C:\\Users\\CHAMA COMPUTERS\\sql\\init_database.sql",
+              "RelativeDocumentMoniker": "..\\..\\sql\\init_database.sql",
+              "ToolTip": "init_database.sql ",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-07-15T18:20:21.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "DbSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Persistence\\Data\\DbSeeder.cs",
+              "RelativeDocumentMoniker": "..\\..\\src\\Recruitment.Persistence\\Data\\DbSeeder.cs",
+              "ToolTip": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Persistence\\Data\\DbSeeder.cs",
+              "RelativeToolTip": "..\\..\\src\\Recruitment.Persistence\\Data\\DbSeeder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T18:19:58.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Domain\\Entities\\Department.cs",
+              "RelativeDocumentMoniker": "..\\..\\src\\Recruitment.Domain\\Entities\\Department.cs",
+              "ToolTip": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Domain\\Entities\\Department.cs",
+              "RelativeToolTip": "..\\..\\src\\Recruitment.Domain\\Entities\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T18:16:23.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Domain\\Entities\\Role.cs",
+              "RelativeDocumentMoniker": "..\\..\\src\\Recruitment.Domain\\Entities\\Role.cs",
+              "ToolTip": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Domain\\Entities\\Role.cs",
+              "RelativeToolTip": "..\\..\\src\\Recruitment.Domain\\Entities\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T18:15:56.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Candidate.cs",
+              "DocumentMoniker": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Domain\\Entities\\Candidate.cs",
+              "RelativeDocumentMoniker": "..\\..\\src\\Recruitment.Domain\\Entities\\Candidate.cs",
+              "ToolTip": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Domain\\Entities\\Candidate.cs",
+              "RelativeToolTip": "..\\..\\src\\Recruitment.Domain\\Entities\\Candidate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T18:16:09.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Recruiter.cs",
+              "DocumentMoniker": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Domain\\Entities\\Recruiter.cs",
+              "RelativeDocumentMoniker": "..\\..\\src\\Recruitment.Domain\\Entities\\Recruiter.cs",
+              "ToolTip": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Domain\\Entities\\Recruiter.cs",
+              "RelativeToolTip": "..\\..\\src\\Recruitment.Domain\\Entities\\Recruiter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T18:16:13.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Permission.cs",
+              "DocumentMoniker": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Domain\\Entities\\Permission.cs",
+              "RelativeDocumentMoniker": "..\\..\\src\\Recruitment.Domain\\Entities\\Permission.cs",
+              "ToolTip": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Domain\\Entities\\Permission.cs",
+              "RelativeToolTip": "..\\..\\src\\Recruitment.Domain\\Entities\\Permission.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T18:15:59.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationStatus.cs",
+              "DocumentMoniker": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Domain\\Enums\\ApplicationStatus.cs",
+              "RelativeDocumentMoniker": "..\\..\\src\\Recruitment.Domain\\Enums\\ApplicationStatus.cs",
+              "ToolTip": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Domain\\Enums\\ApplicationStatus.cs",
+              "RelativeToolTip": "..\\..\\src\\Recruitment.Domain\\Enums\\ApplicationStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T18:15:48.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "InterviewStatus.cs",
+              "DocumentMoniker": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Domain\\Enums\\InterviewStatus.cs",
+              "RelativeDocumentMoniker": "..\\..\\src\\Recruitment.Domain\\Enums\\InterviewStatus.cs",
+              "ToolTip": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Domain\\Enums\\InterviewStatus.cs",
+              "RelativeToolTip": "..\\..\\src\\Recruitment.Domain\\Enums\\InterviewStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T18:15:52.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IDomainEvent.cs",
+              "DocumentMoniker": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Domain\\Common\\IDomainEvent.cs",
+              "RelativeDocumentMoniker": "..\\..\\src\\Recruitment.Domain\\Common\\IDomainEvent.cs",
+              "ToolTip": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Domain\\Common\\IDomainEvent.cs",
+              "RelativeToolTip": "..\\..\\src\\Recruitment.Domain\\Common\\IDomainEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T18:15:42.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RecruitmentDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Persistence\\Data\\RecruitmentDbContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\src\\Recruitment.Persistence\\Data\\RecruitmentDbContext.cs",
+              "ToolTip": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Persistence\\Data\\RecruitmentDbContext.cs",
+              "RelativeToolTip": "..\\..\\src\\Recruitment.Persistence\\Data\\RecruitmentDbContext.cs",
+              "ViewState": "AgIAANAAAAAAAAAAAAAYwPIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T18:14:32.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Domain\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "..\\..\\src\\Recruitment.Domain\\Common\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Domain\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "..\\..\\src\\Recruitment.Domain\\Common\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T18:15:37.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Recruitment.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Application\\Recruitment.Application.csproj",
+              "RelativeDocumentMoniker": "..\\..\\src\\Recruitment.Application\\Recruitment.Application.csproj",
+              "ToolTip": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.Application\\Recruitment.Application.csproj",
+              "RelativeToolTip": "..\\..\\src\\Recruitment.Application\\Recruitment.Application.csproj",
+              "ViewState": "AgIAABAAAAAAAAAAAABBwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-15T18:14:31.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.API\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\src\\Recruitment.API\\Program.cs",
+              "ToolTip": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.API\\Program.cs",
+              "RelativeToolTip": "..\\..\\src\\Recruitment.API\\Program.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAIBJwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T18:14:12.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Recruitment.API.csproj",
+              "DocumentMoniker": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.API\\Recruitment.API.csproj",
+              "RelativeDocumentMoniker": "..\\..\\src\\Recruitment.API\\Recruitment.API.csproj",
+              "ToolTip": "C:\\Users\\CHAMA COMPUTERS\\src\\Recruitment.API\\Recruitment.API.csproj",
+              "RelativeToolTip": "..\\..\\src\\Recruitment.API\\Recruitment.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-15T18:14:06.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\CHAMA COMPUTERS\\tests\\Recruitment.UnitTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\..\\tests\\Recruitment.UnitTests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\CHAMA COMPUTERS\\tests\\Recruitment.UnitTests\\UnitTest1.cs",
+              "RelativeToolTip": "..\\..\\tests\\Recruitment.UnitTests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T18:14:23.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Recruitment.UnitTests.csproj",
+              "DocumentMoniker": "C:\\Users\\CHAMA COMPUTERS\\tests\\Recruitment.UnitTests\\Recruitment.UnitTests.csproj",
+              "RelativeDocumentMoniker": "..\\..\\tests\\Recruitment.UnitTests\\Recruitment.UnitTests.csproj",
+              "ToolTip": "C:\\Users\\CHAMA COMPUTERS\\tests\\Recruitment.UnitTests\\Recruitment.UnitTests.csproj",
+              "RelativeToolTip": "..\\..\\tests\\Recruitment.UnitTests\\Recruitment.UnitTests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-15T18:14:18.199Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

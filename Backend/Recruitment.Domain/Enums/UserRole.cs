@@ -1,0 +1,1 @@
+namespace Recruitment.Domain.Enums; public enum UserRole { Candidate,Recruiter,HiringManager,Admin }
